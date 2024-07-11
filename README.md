@@ -11,11 +11,12 @@ This script can be used to download text-to-speech (TTS) audio files from chatGP
 
 - Python 3.x
 - `requests` library
+- `pydub` library
 
 Install the required library using:
 
 ```sh
-pip install requests
+pip install -r requirements.txt
 ```
 ````
 
